@@ -1,6 +1,6 @@
-# smart_helper_app
+# tugas_ranuramadhan_app
 
-Aplikasi mobile untuk tugas Flutter
+Aplikasi mobile untuk tugas Flutter ranuramadhan
 
 ## Tentang Proyek
 
