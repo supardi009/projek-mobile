@@ -1,16 +1,16 @@
 # smart_helper_app
 
-A new Flutter project.
+Aplikasi mobile untuk tugas Flutter
 
-## Getting Started
+## Tentang Proyek
 
-This project is a starting point for a Flutter application.
+Ini adalah proyek Flutter untuk memenuhi tugas mobile.
 
-A few resources to get you started if this is your first Flutter project:
+## Panduan Memulai
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Untuk memulai pengembangan Flutter:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Lab: Aplikasi Flutter pertama](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Contoh Flutter](https://docs.flutter.dev/cookbook)
+
+Lihat [dokumentasi online](https://docs.flutter.dev/) untuk panduan lengkap.
